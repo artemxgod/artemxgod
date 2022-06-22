@@ -4,7 +4,7 @@
 - 📫 How to reach me: <a href="https://t.me/steppen_wolf7">Telegram</a><br>
  <a href="(https://img.shields.io/">
          <img alt="Qries" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"
-         width=150" height="70">
+         width=120" height="60">
       </a>
 <!--
 **artemxgod/artemxgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
