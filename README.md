@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Artem
+<h1 align="center">Hi there 👋, I'm Artem</h1>
 
 - 📫 How to reach me: <a href="https://t.me/steppen_wolf7">Telegram</a>
 <!--
