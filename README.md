@@ -1,6 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Artem
 
-- 🌱 I’m currently learning golang
 - 📫 How to reach me: <a href="https://t.me/steppen_wolf7">Telegram</a>
 <!--
 **artemxgod/artemxgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
