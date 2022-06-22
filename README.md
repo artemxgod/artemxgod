@@ -2,10 +2,6 @@
 <h3 align="center">Golang developer, computer science student from Taiwan 🇹🇼</h3>
 - 🔭 I’m currently working on Web Apps<br>
 - 📫 How to reach me: <a href="https://t.me/steppen_wolf7">Telegram</a><br>
- <a href="(https://img.shields.io/">
-         <img alt="Qries" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"
-         width=100" height="55">
-      </a>
 <!--
 **artemxgod/artemxgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,4 +15,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+ <a href="(https://img.shields.io/">
+         <img alt="Qries" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"
+         width=100" height="55">
+      </a>
 -->
