@@ -2,7 +2,7 @@
 <h3 align="center">Golang developer, computer science student from Taiwan 🇹🇼</h3>
 - 🔭 I’m currently working on Web Apps<br>
 - 📫 How to reach me: <a href="https://t.me/steppen_wolf7">Telegram</a>
-- ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 <!--
 **artemxgod/artemxgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
