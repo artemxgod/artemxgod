@@ -4,7 +4,6 @@
 💻 Currently learning <i>python</i> and <i>rust</i><br>
 🐱 Developing pet projects
 </h3>
-
 <h2 align="center"> 👾 Technology stack</h2>
 
 ### Backend  
