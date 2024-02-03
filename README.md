@@ -44,8 +44,11 @@
 
 
 <h2 align="center">💬 Reach me</h2>
-  <center><a href="https://t.me/nemo2718" alt="Telegram">
-    <img src="https://img.shields.io/badge/tg-@Artem_Kain-white/?style=for-the-badge&logo=Telegram&color=0088cc"/></a></center>
+<div align="center">
+ <a href="https://t.me/nemo2718" alt="Telegram">
+    <img src="https://img.shields.io/badge/tg-@Artem_Kain-white/?style=for-the-badge&logo=Telegram&color=0088cc"/></a>
+</div>
+  
 
 <!--
 **artemxgod/artemxgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
