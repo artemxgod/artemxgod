@@ -1,4 +1,11 @@
 <h2 align="center">🌌 Welcome to my profile</h2>
+
+<h2 align="center">💬 Reach me</h2>
+<div align="center">
+ <a href="https://t.me/nemo2718" alt="Telegram">
+    <img src="https://img.shields.io/badge/tg-@Artem_Kain-white/?style=for-the-badge&logo=Telegram&color=0088cc"/></a>
+</div>
+
 <h3>
 💼 Software engineer<br> 
 💻 Currently learning <i>python</i> and <i>rust</i><br>
@@ -40,13 +47,6 @@
 </td></tr></table>  
 
 <br/>  
-
-
-<h2 align="center">💬 Reach me</h2>
-<div align="center">
- <a href="https://t.me/nemo2718" alt="Telegram">
-    <img src="https://img.shields.io/badge/tg-@Artem_Kain-white/?style=for-the-badge&logo=Telegram&color=0088cc"/></a>
-</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artemxgod)](https://github.com/anuraghazra/github-readme-stats)
 
