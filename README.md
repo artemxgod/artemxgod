@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artemxgod)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artemxgod)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 <h2 align="center">🌌 Welcome to my profile</h2>
