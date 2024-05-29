@@ -1,19 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artemxgod)](https://github.com/anuraghazra/github-readme-stats)
-
-[How I made my GitHub profile README dynamic](https://tduyng2.github.io/blog/dynamic-github-profile-readme/) - 2024-05-13
-
-[New home for my website](https://tduyng2.github.io/blog/new-home-for-my-website/) - 2024-05-11
-
-[Start a new journey](https://tduyng2.github.io/blog/start-a-new-journey/) - 2021-05-01
-
-[Why use Docker compose](https://tduyng2.github.io/blog/why-use-dockercompose/) - 2021-01-25
-
-[Create simple web app Nodejs with Docker](https://tduyng2.github.io/blog/create-simple-project-nodejs-with-docker/) - 2020-12-22
-
-
-<!--
 <h2 align="center">🌌 Welcome to my profile</h2>
-<h3 >
+<h3>
 💼 Working in FinTech company as a backend developer<br> 
 💻 Currently learning <i>python</i> and <i>rust</i><br>
 🐱 Developing pet projects
@@ -61,7 +47,8 @@
  <a href="https://t.me/nemo2718" alt="Telegram">
     <img src="https://img.shields.io/badge/tg-@Artem_Kain-white/?style=for-the-badge&logo=Telegram&color=0088cc"/></a>
 </div>
- -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artemxgod)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **artemxgod/artemxgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
