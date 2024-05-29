@@ -1,6 +1,6 @@
 <h2 align="center">🌌 Welcome to my profile</h2>
 <h3>
-💼 Working in FinTech company as a backend developer<br> 
+💼 Software engineer<br> 
 💻 Currently learning <i>python</i> and <i>rust</i><br>
 🐱 Developing pet projects
 </h3>
