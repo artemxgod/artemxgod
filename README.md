@@ -1,3 +1,6 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artemxgod)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
 <h2 align="center">🌌 Welcome to my profile</h2>
 <h3 >
 💼 Working in FinTech company as a backend developer<br> 
@@ -47,7 +50,7 @@
  <a href="https://t.me/nemo2718" alt="Telegram">
     <img src="https://img.shields.io/badge/tg-@Artem_Kain-white/?style=for-the-badge&logo=Telegram&color=0088cc"/></a>
 </div>
-  
+ -->
 
 <!--
 **artemxgod/artemxgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
